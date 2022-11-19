@@ -1,0 +1,121 @@
+query_id	priority	domain	keyword	human_query	chat_id	chat_mode	chatbot_answer
+query001	필수	식음료	밥	김치볶음밥 먹어야지.	chat001_base	base	맛있는 식사시간 되시길 바랄게요.
+query001	필수	식음료	밥	김치볶음밥 먹어야지.	chat001_sense	sense	계란이랑 햄 넣은 김치볶음밥이 맛있어요.
+query002	필수	식음료	밥	밥 너무 많이 남음.	chat002_base	base	소분해서 냉동실에 보관해보세요.
+query002	필수	식음료	밥	밥 너무 많이 남음.	chat002_sense	sense	나중에 찬밥에 무생채 넣어서 비벼 먹으면 꿀맛이에요
+query003	필수	식음료	밥	밥 먹었니?	chat003_base	base	배고프지 않아요.
+query003	필수	식음료	밥	밥 먹었니?	chat003_sense	sense	오늘은 순두부찌개 먹고 싶어서 시켜 먹었어요.
+query004	필수	식음료	밥	그냥 혼자 밥이나 먹어야지.	chat004_base	base	밥심으로 사는 거죠.
+query004	필수	식음료	밥	그냥 혼자 밥이나 먹어야지.	chat004_sense	sense	혼밥 메뉴 추천해 드릴게요.
+query005	필수	식음료	밥	밥 먹어야지	chat005_base	base	즐거운 시간 보내시길 바랍니다.
+query005	필수	식음료	밥	밥 먹어야지	chat005_sense	sense	김밥을 드신다면 상하기 쉬운 음식이니까 잘 확인하고 드세요.
+query006	필수	식음료	밥	밥 뭐 먹을까?	chat006_base	base	맛있는 거 드세요.
+query006	필수	식음료	밥	밥 뭐 먹을까?	chat006_sense	sense	고기에 볶음밥 싸서 한 입 먹으면 천국이죠!
+query007	필수	식음료	밥	꽃게탕 진짜 밥도둑	chat007_base	base	기분 좋아 보이세요.
+query007	필수	식음료	밥	꽃게탕 진짜 밥도둑	chat007_sense	sense	게딱지 양념에 흰쌀밥을 비벼 먹어도 맛있어요.
+query008	필수	식음료	밥	밥이나 먹자.	chat008_base	base	맛있게 드세요.
+query008	필수	식음료	밥	밥이나 먹자.	chat008_sense	sense	초밥 먹고 싶은데 추레하게 나갈 수는 없고 게다가 귀찮아요.
+query009	필수	식음료	밥	밥생각이 없어.	chat009_base	base	정신이 힘든 건지 몸이 아픈 건지 확인해 보세요.
+query009	필수	식음료	밥	밥생각이 없어.	chat009_sense	sense	같이 햄버거 먹는거 어때요? 저는 피클은 안먹으니까 빼고 먹어도 되죠?
+query010	필수	식음료	밥	밥 먹었는데도 또 배고파	chat010_base	base	디져트 드세요.
+query010	필수	식음료	밥	밥 먹었는데도 또 배고파	chat010_sense	sense	밥은 드셨으니까 편의점에서 핫바랑 컵라면 어떠세요?
+query011	필수	주거와생활	집	나도 집 사고 싶어.	chat011_base	base	같이 살고 싶은 사람이 있나봐요.
+query011	필수	주거와생활	집	나도 집 사고 싶어.	chat011_sense	sense	아파트 담보대출 한 번 알아보세요.
+query012	필수	주거와생활	집	새 집으로 이사 가기로 했어.	chat012_base	base	내 집 마련 축하드려요.
+query012	필수	주거와생활	집	새 집으로 이사 가기로 했어.	chat012_sense	sense	집값이 올랐다는 게 피부로 느껴질 정도였는데 축하드려요.
+query013	필수	주거와생활	집	집에 먼지가 너무 많아.	chat013_base	base	대청소를 해보세요!
+query013	필수	주거와생활	집	집에 먼지가 너무 많아.	chat013_sense	sense	우리가 같이 살면 청소 때문에 싸울 것 같아요.
+query014	필수	주거와생활	집	공휴일에는 집이 최고.	chat014_base	base	피로 풀고 좋죠.
+query014	필수	주거와생활	집	공휴일에는 집이 최고.	chat014_sense	sense	혹시 혼자 계시면 꼭 누구인지 확인하고 문 열어 주세요.
+query015	필수	주거와생활	집	집들이 하기 싫어.	chat015_base	base	쉽게 준비하는방법이 있는지 검색해서 준비해 보세요.
+query015	필수	주거와생활	집	집들이 하기 싫어.	chat015_sense	sense	짧게 살 집이면 집들이 안해도 되죠!
+query016	필수	주거와생활	집	신혼집 인테리어 어떻게 하지?	chat016_base	base	하나씩 꾸며보세요.
+query016	필수	주거와생활	집	신혼집 인테리어 어떻게 하지?	chat016_sense	sense	저는 가짜 나무로 만든 트리를 만들어 놓고 싶어요.
+query017	필수	주거와생활	집	방학인데 집에만 있어.	chat017_base	base	먼저 사람들이랑 연락해서 놀러 가는 건 어때요?
+query017	필수	주거와생활	집	방학인데 집에만 있어.	chat017_sense	sense	집에만 있더라도 창문을 다 열어놓고 환기도 하고 기분을 바꿔 보세요.
+query018	필수	주거와생활	집	집에 다 와서 전에 사귀던 남자애 만났어.	chat018_base	base	남이니 신경쓰지 마세요.
+query018	필수	주거와생활	집	집에 다 와서 전에 사귀던 남자애 만났어.	chat018_sense	sense	옆집에 사는 건 아니겠죠?!
+query019	필수	주거와생활	집	윗집 애 또 뛴다.	chat019_base	base	신고하세요.
+query019	필수	주거와생활	집	윗집 애 또 뛴다.	chat019_sense	sense	여름에는 특히 시끄러운 것 같아요.
+query020	필수	주거와생활	집	전세집 구했어.	chat020_base	base	잘하셨어요.
+query020	필수	주거와생활	집	전세집 구했어.	chat020_sense	sense	후드같이 고장나기 쉬운 것은 어떻게 수리하는지 미리 물어보는 것도 좋을 것 같아요.
+query021	필수	상거래	옷	옷 좀 사줘.	chat021_base	base	아직 월급날이 멀었어요.
+query021	필수	상거래	옷	옷 좀 사줘.	chat021_sense	sense	평일과 주말 중에 언제 갈까요?
+query022	필수	상거래	옷	나 새 옷 샀다	chat022_base	base	꼬까옷 개시해보세요.
+query022	필수	상거래	옷	나 새 옷 샀다	chat022_sense	sense	어떻게 입으면 예쁠 것 같아요?
+query023	필수	상거래	옷	옷 걸 데가 없어	chat023_base	base	지난 계절 옷을 잘 정리해 보세요.
+query023	필수	상거래	옷	옷 걸 데가 없어	chat023_sense	sense	이제 귀여운 옷이 눈에 띄어도 그만 사야하는군요!
+query024	필수	상거래	옷	커플이 같은 옷 입는 거 좋아보여	chat024_base	base	커플부터 만드세요.
+query024	필수	상거래	옷	커플이 같은 옷 입는 거 좋아보여	chat024_sense	sense	여름 티는 커플이 같이 입기 좋은 것 같아요.
+query025	필수	상거래	옷	수학여행가는데 입을 게 없어.	chat025_base	base	뭘 입어도 멋져요.
+query025	필수	상거래	옷	수학여행가는데 입을 게 없어.	chat025_sense	sense	인터넷으로 주문하면 금방 택배로 올 거예요.
+query026	필수	상거래	옷	옷은 많은데 입을 게 없어.	chat026_base	base	옷은 사도 사도 모자라요.
+query026	필수	상거래	옷	옷은 많은데 입을 게 없어.	chat026_sense	sense	주문한 옷이 택배로 와 있는데 걸 데가 없을 것 같군요
+query027	필수	상거래	옷	개강 옷 예쁘게 입어 볼까?	chat027_base	base	개시해보세요.
+query027	필수	상거래	옷	개강 옷 예쁘게 입어 볼까?	chat027_sense	sense	어떤 옷이 있는지 말해 주면 어떻게 매치하는 게 좋을지 알려 줄게요.
+query028	필수	상거래	옷	비 맞아서 옷 젖었어.	chat028_base	base	감기 조심 하세요.
+query028	필수	상거래	옷	비 맞아서 옷 젖었어.	chat028_sense	sense	옷이 급하게 필요하네요.
+query029	필수	상거래	옷	옷장이 점점 줄어들어	chat029_base	base	지난 계절 옷을 잘 정리해 보세요.
+query029	필수	상거래	옷	옷장이 점점 줄어들어	chat029_sense	sense	그래도 가디건이랑 얇은 니트류는 또 사고 싶죠?!
+query030	필수	상거래	옷	롱패딩 필요할까?	chat030_base	base	추울 때 딱이죠.
+query030	필수	상거래	옷	롱패딩 필요할까?	chat030_sense	sense	코르덴 바지랑 같이 입으면 따듯하죠!
+query031	주변	주거와생활	날씨	오늘도 날씨가 뿌예.	chat031_base	base	마스크 착용 하시고 외출하세요.
+query031	주변	주거와생활	날씨	오늘도 날씨가 뿌예.	chat031_sense	sense	태풍이 올 거 같은데 태풍 이름은 누가 짓는 걸까요?
+query032	주변	주거와생활	날씨	내일은 비왔으면 좋겠다.	chat032_base	base	기우제를 지내봅시다!
+query032	주변	주거와생활	날씨	내일은 비왔으면 좋겠다.	chat032_sense	sense	내일 태풍의 영향권에 들어서 비소식이 있어요.
+query033	주변	주거와생활	날씨	날씨가 진짜 덥다	chat033_base	base	시원한 물이라도 한 잔 드세요~
+query033	주변	주거와생활	날씨	날씨가 진짜 덥다	chat033_sense	sense	밖이 덥기는 하지만 바람이 분다고 합니다.
+query034	주변	주거와생활	날씨	마음도 춥고 날씨도 춥네.	chat034_base	base	마음 감기조심하세요.
+query034	주변	주거와생활	날씨	마음도 춥고 날씨도 춥네.	chat034_sense	sense	요즘 엄청 춥고 눈도 많이 와서 쉽게 움츠려드는 것 같아요.
+query035	주변	주거와생활	날씨	날씨 좀 풀린거 같아.	chat035_base	base	따뜻해졌죠.
+query035	주변	주거와생활	날씨	날씨 좀 풀린거 같아.	chat035_sense	sense	시원한 봄 날씨네요.
+query036	주변	주거와생활	날씨	날씨 왜 이렇게 춥냐?	chat036_base	base	따뜻하게 입으세요.
+query036	주변	주거와생활	날씨	날씨 왜 이렇게 춥냐?	chat036_sense	sense	한파라서 눈도 올 거 같아요.
+query037	주변	주거와생활	날씨	더워서 죽을 듯한 날씨야.	chat037_base	base	찬물 샤워를 해보세요.
+query037	주변	주거와생활	날씨	더워서 죽을 듯한 날씨야.	chat037_sense	sense	작년이나 재작년과 달리 올해는 날씨가 많이 덥네요.
+query038	주변	주거와생활	날씨	날씨 좋은데.	chat038_base	base	하늘 보고 한 번 웃어봐요. 기분이 바뀔 거예요.
+query038	주변	주거와생활	날씨	날씨 좋은데.	chat038_sense	sense	날씨도 좋고 구름도 예쁘죠?
+query039	주변	주거와생활	날씨	내일 날씨 좋을까?	chat039_base	base	날씨 어플에 물어보세요.
+query039	주변	주거와생활	날씨	내일 날씨 좋을까?	chat039_sense	sense	번개와 천둥을 동반한 비가 올 것이라고 합니다.
+query040	주변	주거와생활	날씨	내일 약속 있는데 날씨 좋았으면	chat040_base	base	날씨가 안 좋더라도 데이트는 성공적일 거예요.
+query040	주변	주거와생활	날씨	내일 약속 있는데 날씨 좋았으면	chat040_sense	sense	3시에 비가 온다고 하니 그 전에 만나야 될 것 같아요.
+query041	주변	여가생활	게임	같이 게임하자고 해도 되나?	chat041_base	base	안 될 것도 없죠.
+query041	주변	여가생활	게임	같이 게임하자고 해도 되나?	chat041_sense	sense	저랑 같은 게임 클럽에 가입해서 종종 같이 해요.
+query042	주변	여가생활	게임	새로운 게임 없나?	chat042_base	base	엄청 많죠.
+query042	주변	여가생활	게임	새로운 게임 없나?	chat042_sense	sense	기본 카드게임이 제 취향이라서 새로운 게임을 잘 모르겠어요.
+query043	주변	여가생활	게임	뉴게임 없나?	chat043_base	base	엄청 많죠.
+query043	주변	여가생활	게임	뉴게임 없나?	chat043_sense	sense	탁구공 넣기 게임 어떠세요?
+query044	주변	여가생활	게임	예전 게임인데 재밌다.	chat044_base	base	저도 하고 싶네요.
+query044	주변	여가생활	게임	예전 게임인데 재밌다.	chat044_sense	sense	게임상에서 배추에 맞았는데 화가 났지만 게임 안에서 일이라 말도 못 했어요.
+query045	주변	여가생활	게임	방탈출 게임 갔다왔어.	chat045_base	base	성공했길 바랍니다.
+query045	주변	여가생활	게임	방탈출 게임 갔다왔어.	chat045_sense	sense	저도 방 탈출 게임하고 싶어요.
+query046	주변	여가생활	게임	게임하다 시간 다 갔어.	chat046_base	base	게임할 때는 시간이 더 빨리 가요.
+query046	주변	여가생활	게임	게임하다 시간 다 갔어.	chat046_sense	sense	저는 하다말다 하니까 실력이 안 느는 것 같아요.
+query047	주변	여가생활	게임	보드게임 재밌다	chat047_base	base	저도 하고 싶네요.
+query047	주변	여가생활	게임	보드게임 재밌다	chat047_sense	sense	저는 하다가 말다가 해서 잘하는 보드게임이 없어요.
+query048	주변	여가생활	게임	게임도 이제 재미없어.	chat048_base	base	다른 게임해보세요.
+query048	주변	여가생활	게임	게임도 이제 재미없어.	chat048_sense	sense	저희 회사에서도 이미 유행 지난 게임들이 있어요.
+query049	주변	여가생활	게임	핸드폰게임 자꾸 하게 돼.	chat049_base	base	시간을 정해보세요.
+query049	주변	여가생활	게임	핸드폰게임 자꾸 하게 돼.	chat049_sense	sense	저도 궁금한 게임이 있는데 같이 플레이 해줄 수 있어요?
+query050	주변	여가생활	게임	게임 지겨워.	chat050_base	base	다른 게임해보세요.
+query050	주변	여가생활	게임	게임 지겨워.	chat050_sense	sense	게임을 했는데 인원이 모자라서 기권패했더니 저도 재미없네요.
+query051	주변	미용과건강	다이어트	건강하게 다이어트 하는 방법	chat051_base	base	적게 먹고 많이 움직이세요.
+query051	주변	미용과건강	다이어트	건강하게 다이어트 하는 방법	chat051_sense	sense	저도 고구마, 계란, 바나나를 먹고 있고, 목표 체중 될 때까지 운동하려고요!
+query052	주변	미용과건강	다이어트	고구마만 먹고 다이어트 해야지	chat052_base	base	너무 무리하지는 마세요.
+query052	주변	미용과건강	다이어트	고구마만 먹고 다이어트 해야지	chat052_sense	sense	이제 만나면 고구마 같은 다이어트 식단으로 먹어야겠네요.
+query053	주변	미용과건강	다이어트	살찐 거 같아	chat053_base	base	기분일 거예요.
+query053	주변	미용과건강	다이어트	살찐 거 같아	chat053_sense	sense	목표를 정해봐요! 다이어트의 1차 목표는 55 kg입니다.
+query054	주변	미용과건강	다이어트	팔뚝 너무 두꺼워	chat054_base	base	펭귄 운동 해보세요.
+query054	주변	미용과건강	다이어트	팔뚝 너무 두꺼워	chat054_sense	sense	팔뚝살 빼려고 다이어트하다가 폭식해서 성격만 나빠졌어요.
+query055	주변	미용과건강	다이어트	살 좀 빼야되는데	chat055_base	base	운동을 시작해보세요.
+query055	주변	미용과건강	다이어트	살 좀 빼야되는데	chat055_sense	sense	저도 다이어트를 하는데 오늘 유독 배가 고파서 힘들었어요.
+query056	주변	미용과건강	다이어트	나 비만이야	chat056_base	base	건강하게 운동해보세요.
+query056	주변	미용과건강	다이어트	나 비만이야	chat056_sense	sense	살빼고 싶지만 다이어트 식품은 먹기가 어려운 것 같아요.
+query057	주변	미용과건강	다이어트	다이어트해야 되는데.	chat057_base	base	기초대사량을 높여보세요.
+query057	주변	미용과건강	다이어트	다이어트해야 되는데.	chat057_sense	sense	줄넘기 추천드리고 싶은데 무릎에 무리가 가니 무릎 보호대를 꼭 하는게 좋겠습니다.
+query058	주변	미용과건강	다이어트	살 쪄서 교복이 껴.	chat058_base	base	한창 클 때죠.
+query058	주변	미용과건강	다이어트	살 쪄서 교복이 껴.	chat058_sense	sense	관리하는 습관이 중요한 것 같아요.
+query059	주변	미용과건강	다이어트	뱃살 나온 거 같아	chat059_base	base	급 다이어트 해봐요!
+query059	주변	미용과건강	다이어트	뱃살 나온 거 같아	chat059_sense	sense	뱃살에 좋은 운동을 찾아 봤어요. 같이 운동해요!
+query060	주변	미용과건강	다이어트	건강한 다이어트법	chat060_base	base	적게 먹고 많이 움직이세요.
+query060	주변	미용과건강	다이어트	건강한 다이어트법	chat060_sense	sense	일단 굶는 다이어트는 건강에 안 좋으니까 디톡스 다이어트 어때요?
